@@ -1,6 +1,4 @@
 # Tugas-Program-Komnum-R09
-# Tugas Program Komnum - R09
-
 Program untuk Tugas Komputasi Numerik Nomor 8 ini menggunakan metode **Newton-Raphson** untuk mencari akar dari suatu fungsi polinomial. Program ini juga menampilkan hasil iterasi dalam dua versi:
 
 - Tanpa pembulatan  
